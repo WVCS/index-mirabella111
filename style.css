@@ -1,14 +1,4 @@
-<html> 
-  <head>
-  <link rel="stylesheet" href="style.css">
-</head>
-  <body> 
-     <ul id="Nav">
-    <li><a href="index.html"> HOME </a></li>
-    <li><a href="about.html"> ABOUT </a></li>
-    <li><a href="nameofmy"> NOUN </a></li>
-    <li><a href="nameofmy"> VERB </a></li>
-  </ul>
+
 body {
   font-family: system-ui;
 }
