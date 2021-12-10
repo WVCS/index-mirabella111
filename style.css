@@ -1,9 +1,9 @@
 body {background-color: #B6EABE}
-body {
+
   font-family: system-ui;
 }
 h2{ 
-  background-color:pink;
+  color #B6EABE; 
 }
   color: black;
   text-align: center;
